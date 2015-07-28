@@ -1,16 +1,16 @@
 {
-	"name": "soundtrap",
-	"description": "Remote API in Node.js for Soundtrap",
+	"name": "streamsonic",
+	"description": "Remote API in Node.js for Streamsonic",
 	"version": "0.1.0",
 	"author": "kdi",
 	"contributors": [
 		{ "name": "Makis Tracend", "email": "makis@kdi.co" }
 	],
-	"homepage": "http://soundtrap.net",
-	"keywords": ["soundtrap", "crud", "api", "json"],
+	"homepage": "http://streamsonic.net",
+	"keywords": ["streamsonic", "crud", "api", "json"],
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/soundtrap/node.git"
+		"url": "git://github.com/streamsonic/node.git"
 	},
 	"engines": { "node": ">=0.8.x" },
 	"main": "index",
@@ -18,6 +18,6 @@
 	"dependencies": {
 		"underscore": "*",
 		"passport": "*",
-		"passport-soundtrap": "*"
+		"passport-streamsonic": "*"
 	}
 }
