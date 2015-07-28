@@ -1,7 +1,7 @@
 {
 	"name": "streamsonic",
 	"description": "Remote API in Node.js for Streamsonic",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"author": "kdi",
 	"contributors": [
 		{ "name": "Makis Tracend", "email": "makis@kdi.co" }
